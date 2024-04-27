@@ -1,0 +1,28 @@
+[
+  {
+    "role": " JavaScript",
+    "organisation": " Infosys Springboard ",
+    "startDate": "30 Sept, 2023",
+    "endDate": "Present",
+    "experiences": ["JavaScript is a programming language that adds interactivity to your website"],
+    "imageSrc": "history/javaScript.png"
+  },
+  {
+    "role": "React",
+    "organisation": "Infosys Springboard",
+    "startDate": "15 March, 2024",
+    "endDate": "Present",
+    "experiences": ["React is a JavaScript library for building user interfaces"],
+    "imageSrc": "history/React2.png"
+  },
+  {
+    "role": "Python",
+    "organisation": "Infosys Springboard",
+    "startDate": "15 Apr, 2024",
+    "endDate": "Present",
+    "experiences": [
+      "Python is a high-level, object-oriented programming languages"
+    ],
+    "imageSrc": "history/python.png"
+  }
+]

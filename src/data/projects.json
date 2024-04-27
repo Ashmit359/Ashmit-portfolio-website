@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Single page music player (similar as Spotify) ",
+    "imageSrc": "projects/project.png",
+    "description": "It is very simple of single page music player any one can easy used it ",
+    "skills": ["React", "JavaScript", "Node"],
+    "demo": "https://ashmit359.github.io/Music_Player/",
+    "source": "https://github.com/Ashmit359/Music_Player"
+  },
+  {
+    "title": "calculator (responsive calculator) ",
+    "imageSrc": "projects/project.png",
+    "description": "It is very simple to use and very useful to calculate. It is responsive .",
+    "skills": ["Html", "CSS", "JavaScript"],
+    "demo": "https://ashmit359.github.io/javascript-calculator-master/",
+    "source": "https://github.com/Ashmit359/javascript-calculator-master"
+  },
+  {
+    "title": "E-commerce Website (similar as Amazon) ",
+    "imageSrc": "projects/project.png",
+    "description": "I Create a user interface of website of e-commerce like a Amazon.",
+    "skills": ["React", "JavaScript", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Ashmit359"
+  }
+]
